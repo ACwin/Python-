@@ -1,11 +1,3 @@
-'''
-Function:
-	乒乓球小游戏-一些必要的精灵类
-Author:
-	Charles
-微信公众号:
-	Charles的皮卡丘
-'''
 import random
 import config
 import pygame
