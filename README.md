@@ -1,10 +1,7 @@
-# Usage
-```
-Step1:
-pip install -r requirements.txt
-Step2:
-run "射击游戏.py"
-```
+# information
+
+Update the game occasionally
+
 
 # Reference
 https://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python
