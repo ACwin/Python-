@@ -1,11 +1,3 @@
-'''
-Function:
-    定义游戏开始结束等界面
-Author:
-    Charles
-微信公众号:
-    Charles的皮卡丘
-'''
 import sys
 import pygame
 
