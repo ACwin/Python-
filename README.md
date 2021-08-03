@@ -1,12 +1,3 @@
-# Introduction
-https://mp.weixin.qq.com/s/_-AChGldQzdwXN-ljcCMFQ
-
-# Environment
-```
-OS: Windows10
-Python: Python3.5+(have installed necessary dependencies)
-```
-
 # Usage
 ```
 Step1:
