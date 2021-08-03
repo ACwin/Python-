@@ -1,11 +1,3 @@
-'''
-Function:
-	Bunnies and Badgers
-Author: 
-	Charles
-微信公众号: 
-	Charles的皮卡丘
-'''
 import cfg
 import math
 import random
@@ -20,7 +12,7 @@ def initGame():
 	pygame.init()
 	pygame.mixer.init()
 	screen = pygame.display.set_mode(cfg.SCREENSIZE)
-	pygame.display.set_caption('Bunnies and Badgers —— 微信公众号: Charles的皮卡丘')
+	pygame.display.set_caption('Bunnies and Badgers')
 	# 加载必要的游戏素材
 	game_images = {}
 	for key, value in cfg.IMAGE_PATHS.items():
