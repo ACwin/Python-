@@ -3,7 +3,7 @@
 Step1:
 pip install -r requirements.txt
 Step2:
-run "python Game1.py"
+run "射击游戏.py"
 ```
 
 # Reference
